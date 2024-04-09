@@ -1,0 +1,6 @@
+**/models/*
+**/.rasa/cache/*
+**/*.pyc
+**/results
+**/.cache
+**/output.txt
